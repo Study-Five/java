@@ -3,7 +3,7 @@
 모던인 자바 스터디 내용 기록
 
 ## 프로젝트 구조
-``
+```
 .
 ├── main
 │     ├── generated
@@ -41,7 +41,7 @@
 └── ch5
 └── sunmin
 └── TraderExcerciseTest.java
-``
+```
 
 ## gradle 을 사용한 junit 및 lombok 의존성 추가
 
